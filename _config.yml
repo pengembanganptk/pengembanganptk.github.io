@@ -12,16 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Site Title"
+title                    : "Seksi Pengembangan, Bidang PTK"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Admin"
+description              : "Pelayanan Seksi Pengembangan, Bidang PTK, Dinas Pendidikan, Kepemudaan dan Olahraga Kab. Banjarnegara."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -82,7 +82,7 @@ google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : 
 bing_site_verification   :
 naver_site_verification  :
 yandex_site_verification :
@@ -113,18 +113,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Admin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Admin Seksi Pengembangan, Bidang PTK, Dinas Pendidikan, Kepemudaan dan Olahraga Kab. Banjarnegara."
+  location         : "Kab. Banjarnegara"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
+      url: "mailto:ptk.dikporabna@gmail.com"
+    - label: "Official Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://dindikpora.banjarnegarakab.go.id"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -136,7 +136,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/pengembanganptk"
 
 # Site Footer
 footer:
@@ -158,7 +158,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/pengembanganptk"
 
 
 # Reading Files
