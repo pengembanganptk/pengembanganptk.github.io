@@ -117,7 +117,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Admin Seksi Pengembangan, Bidang PTK, Dinas Pendidikan, Kepemudaan dan Olahraga Kab. Banjarnegara."
   location         : "Kab. Banjarnegara"
-  email            :
+  email            : "ptk.dikporabna@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
