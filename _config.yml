@@ -121,7 +121,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:ptk.dikporabna@gmail.com"
+      #url: "mailto:ptk.dikporabna@gmail.com"
     - label: "Official Website"
       icon: "fas fa-fw fa-link"
       url: "https://dindikpora.banjarnegarakab.go.id"
