@@ -3,7 +3,7 @@ main:
   - title: "Beranda"
     url: /
   - title: "Berita"
-    url: /year-archive/
+    url: /berita/
   - title: "Tentang"
     url: /tentang/
   # - title: "Sample Collections"

@@ -1,7 +1,7 @@
 ---
 title: "Tugas Pokok"
 excerpt: "Tentang Seksi Pengembangan Bidang PTK"
-sitemap: false
+search: false
 permalink: /tentang/
 layout: single
 ---
