@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Home"
+  - title: "Beranda"
     url: /
-  - title: "About"
-    url: /about/
-  #- title: "Berita"
-  #   url: /year-archive/
+  - title: "Berita"
+    url: /year-archive/
+  - title: "Tentang"
+    url: /tentang/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
