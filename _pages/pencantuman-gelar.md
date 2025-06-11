@@ -1,4 +1,5 @@
 ---
+toc: true
 title: "Prosedur Permohonan Penggunaan Gelar (IPG) bagi ASN"
 permalink: /penggunaan-gelar/
 author_profile: false
