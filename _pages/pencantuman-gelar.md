@@ -1,9 +1,7 @@
 ---
 toc: true
-layout: single
 title: "Prosedur Permohonan Izin Penggunaan Gelar (IPG) bagi ASN"
 permalink: /penggunaan-gelar/
-author_profile: true
 ---
 ## Dasar Hukum
 1. SE Kepala BKN Nomor 15 Tahun 2024 Tentang Penjelasan Teknis Layanan Pencantuman Gelar dan Pendidikan Pegawai Negeri Sipil 
