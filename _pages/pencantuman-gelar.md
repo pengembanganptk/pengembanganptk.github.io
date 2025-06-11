@@ -27,17 +27,18 @@ toc_icon: "heart"
 
 ## Cara Usul
 1. **Unggah** Scan Dokumen Pesyaratan ke **E-Files BKD Banjarnegara**
-2. Kirim Scan Dokumen Persayaratan ke Email ptk.dikporabna@gmail.com dengan Judul/Subyek Email : IPG_Nama_Pengusul_Nama Sekolah
-   *Ketentuan: File Pdf masing-masing Dokumen Persayaratan berukuran 1 MB*
+2. Kirim Scan Dokumen Persayaratan ke Email **ptk.dikporabna@gmail.com** dengan Judul/Subyek Email : **IPG_Nama_Pengusul_Nama Sekolah**
+   ***Ketentuan: File Pdf masing-masing Dokumen Persayaratan berukuran 1 MB***
+  
 3. Mengurus **Surat Persetujuan Tertulis Hasil Verifikasi Data oleh Kepala OPD** Ke Kantor Dindikpora, Ruang Seksi Pengembangan Bidang PTK (Lantai 2) dengan membawa:
    a. Surat Pengantar dari Sekolah
    b. Ijazah dan Transkrip Asli yang diusulkan
    c. Surat Pernyataan Keabsahan Kepemilikan Ijazah (*tanda tangan dan bermaterai*)
    d. Surat Persetujuan Tertulis Hasil Verifikasi Data oleh Kepala OPD (*sudah ditempel materai*)
 
-   *Setelah Surat Persetujuan Tertulis Hasil Verifikasi Data oleh Kepala OPD sudah diasman oleh Kepala Dinas, kami akan menginformasikan kepada pengusul*
+   *Setelah Surat Persetujuan Tertulis Hasil Verifikasi Data oleh Kepala OPD sudah diasman oleh Kepala Dinas, kami akan menginformasikan kepada pengusul.*
    
-5. Surat Permohonan Usul Penggunaan Gelar akan dikirim oleh Dindikpora ke BKD Kab. Banjarnegara sesuai Periodisasi yang telah ditentukan.
+6. Surat Permohonan Usul Penggunaan Gelar akan dikirim oleh Dindikpora ke BKD Kab. Banjarnegara sesuai Periodisasi yang telah ditentukan.
 
 ## Periodisasi
 | No  | Kegiatan                | Jan | Maret | Mei | Juli | Sept | Nov |
