@@ -27,9 +27,10 @@ toc_label: "Daftar Isi"
 ## Cara Usul
 1. **Unggah** Scan Dokumen Pesyaratan ke **E-Files BKD Banjarnegara**
 2. Kirim Scan Dokumen Persayaratan ke Email **ptk.dikporabna@gmail.com** dengan Judul/Subyek Email : **IPG_Nama_Pengusul_Nama Sekolah**
+
    ***Ketentuan: File Pdf masing-masing Dokumen Persayaratan berukuran 1 MB***
   
-3. Mengurus **Surat Persetujuan Tertulis Hasil Verifikasi Data oleh Kepala OPD** Ke Kantor Dindikpora, Ruang Seksi Pengembangan Bidang PTK (Lantai 2) dengan membawa:
+4. Mengurus **Surat Persetujuan Tertulis Hasil Verifikasi Data oleh Kepala OPD** Ke Kantor Dindikpora, Ruang Seksi Pengembangan Bidang PTK (Lantai 2) dengan membawa:
    a. Surat Pengantar dari Sekolah
    b. Ijazah dan Transkrip Asli yang diusulkan
    c. Surat Pernyataan Keabsahan Kepemilikan Ijazah (*tanda tangan dan bermaterai*)
