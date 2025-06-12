@@ -45,7 +45,7 @@ toc_label: "Daftar Isi"
 
 ## Periodisasi
 
-| No  | Kegiatan                                                                 | Jan                      | Maret                    | Mei                    | Juli                   | Sept                   | Nov                    |
+| No  | Kegiatan                                                                 | Jan                      | Mar                   | Mei                    | Juli                   | Sept                   | Nov                    |
 | --- | ------------------------------------------------------------------------ | ------------------------ | ------------------------ | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
 | 1   | Submit Usulan                                                            | 21 Jan s.d. 30 Jan       | 8 Maret s.d. 18 Maret    | 8 Mei s.d. 18 Mei      | 8 Juli s.d. 18 Juli    | 8 Sept s.d. 18 Sept    | 8 Nov s.d. 18 Nov      |
 | 2   | Melengkapi Dokumen BTS                                                   | 21 Jan s.d. 31 Jan       | 8 Maret s.d. 20 Maret    | 8 Mei s.d. 20 Mei      | 8 Juli s.d. 20 Juli    | 8 Sept s.d. 20 Sept    | 8 Nov s.d. 20 Nov      |
@@ -53,7 +53,6 @@ toc_label: "Daftar Isi"
 
 
 ## Produk Usul IPG
-
 ### Produk dari Dindikpora
 
 1. Ditandatanganinya Surat Persetujuan Tertulis Hasil Verifikasi Data oleh Kepala OPD
