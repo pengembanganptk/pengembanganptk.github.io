@@ -41,11 +41,12 @@ toc_label: "Daftar Isi"
 6. Surat Permohonan Usul Penggunaan Gelar akan dikirim oleh Dindikpora ke BKD Kab. Banjarnegara sesuai Periodisasi yang telah ditentukan.
 
 ## Periodisasi
-| No  | Kegiatan                | Jan | Maret | Mei | Juli | Sept | Nov |
-| --- | -----------             | --- | ---   | --- | ---  | ---  | --- | 
-| 1   | Submit Usulan           | 21 Jan s.d. 30 Jan | 8 Maret s.d. 18 Maret | 8 Mei s.d. 18 Mei | 8 Juli s.d. 18 Juli | 8 Sept s.d. 18 Sept | 8 Nov s.d. 18 Nov |
-| 2   | Melengkapi Dokumen BTS  |  21 Jan s.d. 31 Jan | 8 Maret s.d. 20 Maret | 8 Mei s.d. 20 Mei | 8 Juli s.d. 20 Juli | 8 Sept s.d. 20 Sept | 8 Nov s.d. 20 Nov |
-| 3   | Penetapan Surat Pencantuman Gelar dan Peningkatan Pendidikan |  21 Jan s.d. 2 Feb | 8 Maret s.d. 25 Maret | 8 Mei s.d. 25 Mei | 8 Juli s.d. 25 Juli | 8 Sept s.d. 25 Sept | 8 Nov s.d. 25 Nov |
+| No  | Kegiatan                                                                 | Jan                      | Maret                    | Mei                    | Juli                   | Sept                   | Nov                    |
+| --- | ------------------------------------------------------------------------ | ------------------------ | ------------------------ | ---------------------- | ---------------------- | ---------------------- | ---------------------- |
+| 1   | Submit Usulan                                                            | 21 Jan s.d. 30 Jan       | 8 Maret s.d. 18 Maret    | 8 Mei s.d. 18 Mei      | 8 Juli s.d. 18 Juli    | 8 Sept s.d. 18 Sept    | 8 Nov s.d. 18 Nov      |
+| 2   | Melengkapi Dokumen BTS                                                   | 21 Jan s.d. 31 Jan       | 8 Maret s.d. 20 Maret    | 8 Mei s.d. 20 Mei      | 8 Juli s.d. 20 Juli    | 8 Sept s.d. 20 Sept    | 8 Nov s.d. 20 Nov      |
+| 3   | Penetapan Surat Pencantuman Gelar dan Peningkatan Pendidikan            | 21 Jan s.d. 2 Feb        | 8 Maret s.d. 25 Maret    | 8 Mei s.d. 25 Mei      | 8 Juli s.d. 25 Juli    | 8 Sept s.d. 25 Sept    | 8 Nov s.d. 25 Nov      |
+
 
 ## Produk Usul IPG
 ### Produk dari Dindikpora
