@@ -1,5 +1,5 @@
 ---
-title: "Prosedur Pengajuan Izin/Tugas Belajar bagi ASN"
-permalink: /izin-tugas-belajar/
+title: "Prosedur Pengajuan Izin Belajar bagi ASN"
+permalink: /izin-belajar/
 ---
-Izin/Tugas Belajar bagi ASN
+Izin Belajar bagi ASN
